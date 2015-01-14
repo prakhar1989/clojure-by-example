@@ -1,4 +1,4 @@
 # Summary
 
 - [Introduction](README.md)
-- [Variables](variables.md)
+- [Installation](installation.md)
