@@ -1,9 +1,9 @@
 Variables
 =======
 
-```
+```clojure
 (ns clojure-by-example)
- 
+
 (defn say-hello [msg]
   (str "Hello, " msg )
 
