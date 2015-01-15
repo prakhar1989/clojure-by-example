@@ -23,7 +23,7 @@ Clojure 1.5.1
 user=>
 ```
 
-Aside from just running code, the `REPL` allows you to view documentation and source code for functions defined. This is extremely helpful for doing exploratory development. With that, lets type in the following
+Aside from just running code, the `REPL` allows you to view documentation and source code for functions available in the namespace. This is extremely helpful for doing exploratory development. With that, lets type in the following
 
 ```
 user=> (println "Hello, World")
