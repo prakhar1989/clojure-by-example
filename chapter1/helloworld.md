@@ -31,6 +31,6 @@ Hello, World
 nil
 ```
 
-Great! Here's the famed `Hello, World` in Clojure. But wait, what's that `nil` doing there? We didn't type that in so where did that come from. 
+Great! Here's the famed `Hello, World` in Clojure. But wait, what's that `nil` doing there? We didn't type that in so where did that come from?
 
 Well the short answer for that is that the repl prints the value returned by every expression. Since `println` doesn't return return anything (or `nil`) and just prints your message in a newline, you see the repl printing `nil`. For the longer answer - keep reading!

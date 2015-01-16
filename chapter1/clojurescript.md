@@ -12,7 +12,7 @@ Go ahead and try playing with the *repl*.
 
 {{ ../repl.md }}
 
-If you tried running `(println "hello world")`, then you must have recieved a cryptic error.
+If you tried running `(println "hello world")`, then you must have received a cryptic error.
 
 ```
 cljs.user> (println "Hello, World")
