@@ -2,6 +2,6 @@
 
 - [Introduction](README.md)
 - [Installation](installation.md)
-- [Hello World](hello_world/helloworld.md)
-  - [ClojureScript](hello_world/clojurescript.md)
+- [Hello World](chapter1/helloworld.md)
+  - [ClojureScript](chapter1/clojurescript.md)
 - [Variables](variables.md)

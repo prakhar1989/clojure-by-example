@@ -1,12 +1,14 @@
 # himera
 
-ClojureScript compiler as service with a simple in-browser REPL.
+This is ClojureScript compiler as service with a simple in-browser REPL for Clojure-by-example.
 
-[Try it on Heroku](http://himera.heroku.com)
+Forked from the awesome [Himera project](himera.herokuapp.com) by Fogus and team with a few modifications done here and there.
+
+[Try it on Heroku](https://clojurebyexample-repl.herokuapp.com/index.html)
 
 ## Build
 
-    lein deps
+  lein deps
 	lein cljsbuild once
 
 ## Usage
