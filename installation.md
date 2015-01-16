@@ -1,4 +1,4 @@
-# Installation
+# 1.0 Installation
 
 Clojure's only dependancy is Java. To make sure you have java installed, run the following -
 
