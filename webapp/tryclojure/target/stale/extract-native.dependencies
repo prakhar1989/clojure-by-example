@@ -1,0 +1,1 @@
+([:dependencies ([cider/cider-nrepl "0.8.2"] [org.clojure/clojure "1.4.0"] [lib-noir/lib-noir "0.8.1"] [compojure/compojure "1.1.6"] [ring-server/ring-server "0.3.1"] [commons-lang/commons-lang "2.5"] [clojail/clojail "1.0.6"] [org.clojure/tools.nrepl "0.2.3" :exclusions ([org.clojure/clojure])] [clojure-complete/clojure-complete "0.2.3" :exclusions ([org.clojure/clojure])])])
