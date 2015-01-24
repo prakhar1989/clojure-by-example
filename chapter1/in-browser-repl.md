@@ -12,7 +12,7 @@ Go ahead and try playing with the REPL.
 
 #### Shortcuts
 
-Below is small list of shortcuts that the REPL supports for your convenience.
+Below is small list of keyboard shortcuts that the REPL supports for your convenience.
 
 | Shortcut | Action |
 | -- | -- |
@@ -21,6 +21,10 @@ Below is small list of shortcuts that the REPL supports for your convenience.
 | `ctrl + A` | Jump to the start of the line |
 | `ctrl + E` | Jump to the end of the line |
 | `ctrl + Z` | Abort prompt |
+| `tab` | Indent |
+| `shift + tab` | Unindent |
+| `up` | Previous history item |
+| `down` | Next history item |
 
 
 

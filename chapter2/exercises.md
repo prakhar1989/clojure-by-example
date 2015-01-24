@@ -15,3 +15,5 @@
     (= msg "hello world")
     ;=> true or false?
     ```
+
+{{ ../repl.md }}
