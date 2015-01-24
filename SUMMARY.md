@@ -8,4 +8,4 @@
 - [Forms](chapter2/forms.md)
   - [Prefix Notation](chapter2/prefix.md)
   - [Naming Things](chapter2/namingthings.md)
-  
+  - [Exercises](chapter2/exercises.md)

@@ -5,14 +5,14 @@ If you've not programmed in a Lisp before Clojure's syntax will look very differ
 
 Clojure is a Lisp which stands for LISt Programming. Code in lisps is represented as lists. When you enter code, a part of Clojure called the *reader* reads the text in chunks called **forms** and translates them into Clojure data structures. It is then compiled and executed.
 
-The structure of the form looks like this 
+The structure of the form looks like this
 
 ```
-(          fn         arg1  arg 2     )
-^          ^          ^     ^         ^
-|          |          |     |         |
-opening    function   arguments       closing
-parens     call                       parens
+(       fn         arg1  arg 2  )
+^       ^          ^     ^      ^
+|       |          |     |      |
+opening function   arguments    closing
+parens  call                    parens
 ```
 
 Below are some forms that you can try out in the REPL
