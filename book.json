@@ -1,7 +1,7 @@
 {
-  "plugins": ["clojurescript", "ga", "-mathjax"],
+  "plugins": ["repl", "ga", "-mathjax"],
   "pluginsConfig": {
     "ga": { "token": "UA-40692332-2" },
-    "clojurescript": { "URL": "http://clojurebyexample-repl.herokuapp.com/compile" }
+    "repl": { "URL": "http://clojurebyexample-repl.herokuapp.com/eval.json" }
   }
 }
